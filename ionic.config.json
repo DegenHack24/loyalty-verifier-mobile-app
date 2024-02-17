@@ -1,0 +1,7 @@
+{
+  "name": "loyalty-verifier-mobile-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
