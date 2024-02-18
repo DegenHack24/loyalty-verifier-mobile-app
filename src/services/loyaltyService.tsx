@@ -13,7 +13,7 @@ interface Discount {
 }
 
 
-const getCoupon = async (couponId: string) : Promise<Coupon> => {
+const getCoupon = async (couponId: string): Promise<Coupon> => {
     try {
         // const response = await fetch(apiEndpoint);
         // if (!response.ok) {
